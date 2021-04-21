@@ -1,6 +1,0 @@
-yarn.lock
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-**/node_modules
-TypeScripts_ES6/node_modules
